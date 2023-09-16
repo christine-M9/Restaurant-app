@@ -3,7 +3,7 @@ import {FaEnvelope,FaTwitter,FaLinkedin, FaMobile} from 'react-icons/fa'
 import styled from 'styled-components'
 import Footer from "./Footer";
 
-// import {Map, InfoWindow, Marker, GoogleApiWrapper} from 'google-maps-react';
+// import {Map, InfoWindow, Marker, GoogleApiWrapper} from 'google-maps-react'
 
 
 const Header=styled.div`
@@ -37,10 +37,10 @@ return (
 <div className='iconsf'>
 <h1>Contact Information</h1>
 <h3>Nairobi, Kenya</h3>
-<label><i><FaEnvelope/></i>denniskiprop25@gmail.com</label><br/>
+<label><i><FaEnvelope/></i>christinekhekama99@gmail.com</label><br/>
 <label><i><FaTwitter/></i>Twitter</label><br/>
 <label><i><FaLinkedin/></i>LinkedIn</label><br/>
-<label><i><FaMobile/></i>+254715886876</label><br/>
+<label><i><FaMobile/></i>+254741925566</label><br/>
 </div>
 
 <div className='contactForm'>

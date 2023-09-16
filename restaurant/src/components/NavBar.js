@@ -25,7 +25,7 @@ function NavBar() {
         //   background: "darkblue",
         // }}
       >
-        <li>Home</li>
+        <li>HOME</li>
       </NavLink>
       <NavLink
         to="/menuList"
@@ -35,7 +35,7 @@ function NavBar() {
         //   background: "darkblue",
         // }}
       >
-        <li>MenuList</li>
+        <li>MENULIST</li>
       </NavLink>
       {/* <NavLink
         to="/chef"
@@ -55,7 +55,7 @@ function NavBar() {
         //   background: "darkblue",
         // }}
       >
-        <li>Add comment</li>
+        <li>ADD COMMENT</li>
       </NavLink>
       <NavLink
         to="/about"
@@ -65,7 +65,7 @@ function NavBar() {
         //   background: "darkblue",
         // }}
       >
-        <li>About</li>
+        <li>ABOUT</li>
       </NavLink>
       
       <NavLink
@@ -76,7 +76,7 @@ function NavBar() {
         //   background: "darkblue",
         // }}
       >
-        <li>Contact Us</li>
+        <li>CONTACT US</li>
       </NavLink>
     </ListContainer>
   );

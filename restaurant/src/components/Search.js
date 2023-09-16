@@ -16,7 +16,7 @@ const Search = () => {
           <div className="input-wrapper">
             <input
               type="text"
-              placeholder="Seach for your Fevorite food"
+              placeholder="Seach for your Favorite food"
               // value={filter}
               // onChange={searchText}
               

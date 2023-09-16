@@ -10,7 +10,7 @@ function Footer() {
         <div className="row-footer">
         {/* collum1 */}
         <div className="col">
-          <h2 className="footerh2">JollyBee Restaurant</h2>
+          <h2 className="footerh2">CeeJay Restaurant</h2>
           <ul className="unstyledlist">
           <li>664-7474-829</li>
           <li>Nairobi, Kenya</li>
@@ -23,9 +23,9 @@ function Footer() {
         <div className="col">
           <h2 className="footerh2">ChEF</h2>
           <ul className="unstyledlist">
-          <li>Dennis Kiprop</li>
-          <li>Beverlyn Rutto</li>
-          <li>Jerusha Koskei</li>
+          <li>Christine Juma</li>
+          <li>Mathew J</li>
+          <li>Elizabeth W</li>
           </ul>
           
         </div>
@@ -36,8 +36,8 @@ function Footer() {
           <li><FaTwitter/>Twitter</li>
           <li><FaLinkedin/>LinkedIn</li>
           <li><FaInstagram/>Instagram</li>
-          <li><FaEnvelope/> denniskiprop25@gmail</li>
-          <li><FaMobile/> +254715886876</li>
+          <li><FaEnvelope/> christinekhekama99@gmail</li>
+          <li><FaMobile/> +254741925566</li>
           </ul>
           
         </div>
@@ -46,7 +46,7 @@ function Footer() {
         <hr/>
         <div className="row">
           <p className="paragraph">
-            &copy;{new Date().getfullYear} JOLLYBEE RESTAURANT | All rights reserved | Terms of service | Privacy
+            &copy;{new Date().getfullYear} CEEJAY RESTAURANT | All rights reserved | Terms of service | Privacy
           </p>
 
         </div>

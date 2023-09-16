@@ -3,7 +3,7 @@ import React, { useState } from "react";
 const EMPTY_HEART = '♡'
 const FULL_HEART = '♥'
 function FoodList({ name, price, description, image }) {
-  // const { name, price, description,image } = foodIt;
+  
   const [isShow, setShow]=useState(false)
   const [likes, setLikes]=useState(0)
 
