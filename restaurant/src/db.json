@@ -76,69 +76,6 @@
         "name": "Kenyan Pilau",
         "description": "It seems that rice meals run aplenty in Kenya, and one of the best-tasting is pilau. It’s a Kenyan staple dish that’s widespread in Eastern Africa. Considered as the Kenyan and more celebrated version of Nigeria’s jollof rice, ",
         "price": "Ksh.500"
-      },
-      {
-        "id": 12,
-        "image": "https://www.willflyforfood.net/wp-content/uploads/2021/06/kenyan-food-nyama-choma.jpg.webp",
-        "name": "French Fries",
-        "description": "They are prepared by cutting potatoes into even strips, drying them, and frying them, usually in a deep fryer. ",
-        "price": "Ksh.1000"
-      },
-      {
-        "id": 13,
-        "image": "https://www.willflyforfood.net/wp-content/uploads/2021/06/kenyan-food-nyama-choma.jpg.webp",
-        "name": "French Fries",
-        "description": "They are prepared by cutting potatoes into even strips, drying them, and frying them, usually in a deep fryer. ",
-        "price": "Ksh.1000"
-      },
-      {
-        "id": 14,
-        "image": "https://www.willflyforfood.net/wp-content/uploads/2021/06/kenyan-food-nyama-choma.jpg.webp",
-        "name": "French Fries",
-        "description": "They are prepared by cutting potatoes into even strips, drying them, and frying them, usually in a deep fryer. ",
-        "price": "Ksh.1000"
-      },
-      {
-        "id": 15,
-        "image": "https://www.willflyforfood.net/wp-content/uploads/2021/06/kenyan-food-nyama-choma.jpg.webp",
-        "name": "French Fries",
-        "description": "They are prepared by cutting potatoes into even strips, drying them, and frying them, usually in a deep fryer. ",
-        "price": "Ksh.1000"
-      },
-      {
-        "id": 16,
-        "image": "https://www.willflyforfood.net/wp-content/uploads/2021/06/kenyan-food-nyama-choma.jpg.webp",
-        "name": "French Fries",
-        "description": "They are prepared by cutting potatoes into even strips, drying them, and frying them, usually in a deep fryer. ",
-        "price": "Ksh.1000"
-      },
-      {
-        "id": 17,
-        "image": "https://www.willflyforfood.net/wp-content/uploads/2021/06/kenyan-food-nyama-choma.jpg.webp",
-        "name": "French Fries",
-        "description": "They are prepared by cutting potatoes into even strips, drying them, and frying them, usually in a deep fryer. ",
-        "price": "Ksh.1000"
-      },
-      {
-        "id": 18,
-        "image": "https://www.willflyforfood.net/wp-content/uploads/2021/06/kenyan-food-nyama-choma.jpg.webp",
-        "name": "French Fries",
-        "description": "They are prepared by cutting potatoes into even strips, drying them, and frying them, usually in a deep fryer. ",
-        "price": "Ksh.1000"
-      },
-      {
-        "id": 19,
-        "image": "https://www.willflyforfood.net/wp-content/uploads/2021/06/kenyan-food-nyama-choma.jpg.webp",
-        "name": "French Fries",
-        "description": "They are prepared by cutting potatoes into even strips, drying them, and frying them, usually in a deep fryer. ",
-        "price": "Ksh.1000"
-      },
-      {
-        "id": 20,
-        "image": "https://www.willflyforfood.net/wp-content/uploads/2021/06/kenyan-food-nyama-choma.jpg.webp",
-        "name": "",
-        "description": "They are prepared by cutting potatoes into even strips, drying them, and frying them, usually in a deep fryer. ",
-        "price": "Ksh.1000"
       }
     ],
     "comments": [
@@ -146,7 +83,7 @@
         {
           "description": "We provide best services to our customers",
           "id": 2
-        },
+        }
        
       ]
     }

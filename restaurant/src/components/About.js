@@ -26,7 +26,7 @@ function About() {
 
          <div className='aboutpage'>
       <div className='aboutimage'>
-      <img src='./image/dennis.jpeg' alt='image'/>
+      <img src='./image/download (1).jpeg' alt='image'/>
       </div>
       <div className='aboutMore'>
         <h1>About our Restaurant</h1>

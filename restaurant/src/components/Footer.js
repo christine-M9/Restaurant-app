@@ -12,9 +12,9 @@ function Footer() {
         <div className="col">
           <h2 className="footerh2">CeeJay Restaurant</h2>
           <ul className="unstyledlist">
-          <li>664-7474-829</li>
+          <li>224-3334-809</li>
           <li>Nairobi, Kenya</li>
-          <li>7513, Nairobi</li>
+          <li>00100, Nairobi</li>
           </ul>
 
         </div>
@@ -23,9 +23,9 @@ function Footer() {
         <div className="col">
           <h2 className="footerh2">ChEF</h2>
           <ul className="unstyledlist">
-          <li>Christine Juma</li>
+          <li>Christine J</li>
           <li>Mathew J</li>
-          <li>Elizabeth W</li>
+          <li>Elizabeth J</li>
           </ul>
           
         </div>
@@ -36,7 +36,7 @@ function Footer() {
           <li><FaTwitter/>Twitter</li>
           <li><FaLinkedin/>LinkedIn</li>
           <li><FaInstagram/>Instagram</li>
-          <li><FaEnvelope/> christinekhekama99@gmail</li>
+          <li><FaEnvelope/> christinejuma22699@gmail</li>
           <li><FaMobile/> +254741925566</li>
           </ul>
           

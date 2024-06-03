@@ -37,7 +37,7 @@ return (
 <div className='iconsf'>
 <h1>Contact Information</h1>
 <h3>Nairobi, Kenya</h3>
-<label><i><FaEnvelope/></i>christinekhekama99@gmail.com</label><br/>
+<label><i><FaEnvelope/></i>christinejuma22699@gmail.com</label><br/>
 <label><i><FaTwitter/></i>Twitter</label><br/>
 <label><i><FaLinkedin/></i>LinkedIn</label><br/>
 <label><i><FaMobile/></i>+254741925566</label><br/>
@@ -53,7 +53,7 @@ return (
 </form>
 </div>
 <div className='mapping'>
-<img src='./image/map.jpg' alt='image'/>
+{/* <img src='./image/map.jpg' alt='image'/> */}
 </div>
 </div>
 <FooterContainer>

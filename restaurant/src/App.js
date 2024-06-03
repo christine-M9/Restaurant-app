@@ -2,7 +2,6 @@ import React, { useState, useEffect } from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import styled from 'styled-components';
 import NavBar from './components/NavBar';
-import Comment from './components/Comment';
 import Contact from './components/Contact';
 import Home from './components/Home';
 import About from './components/About';
@@ -53,7 +52,7 @@ function App() {
       <RestContainer>
         <Header className="header">
           <AppName>
-            <span className="span"> RESTAURANT  </span>MENULIST APP
+            <span className="span"> RESTAURANT  </span>APP
           </AppName>
           <Nav>
             <NavBar />
@@ -64,7 +63,7 @@ function App() {
           <Route path="/menuList" element={<MenuList foods={foods} />} />
           {/* <Route path="/chef" element={<Chef />} /> */}
           <Route path="/about" element={<About />} />
-          <Route path="/comment" element={<Comment />} />
+          {/* <Route path="/comment" element={<Comment />} /> */}
           <Route path="/contact" element={<Contact />} />
         </Routes>
       </RestContainer>

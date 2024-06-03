@@ -18,7 +18,7 @@ function Home() {
         <div className='homeinfo'>
             <h1><span className='span'>CEEJAY </span> RESTAURANT</h1>
             <h2>Walk in Or make an order</h2>
-            <p>Delicious Dishes</p>
+            <p>A place to have the best Taste</p>
         </div>
         <FooterContainer>
       <Footer/>

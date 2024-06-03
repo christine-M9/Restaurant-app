@@ -7,6 +7,7 @@ const ListContainer = styled.ul`
   justify-content: center;
   align-items: center;
 `;
+
 const linkStyles = {
   padding: "12px",
   margin: "0 6px 6px",
@@ -55,7 +56,6 @@ function NavBar() {
         //   background: "darkblue",
         // }}
       >
-        <li>ADD COMMENT</li>
       </NavLink>
       <NavLink
         to="/about"
